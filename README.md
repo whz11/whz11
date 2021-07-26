@@ -19,11 +19,10 @@ Here are some ideas to get you started:
 <p align=left> <img src=https://komarev.com/ghpvc/?username=whz11&color=green alt=whz11 /> </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=whz11&show_icons=true&theme=vue&line_height=40" alt="Jeking's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=whz11&show_icons=true&theme=vue&line_height=40" alt="whz11" />
 </a>
 
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=whz11&theme=vue&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whz11&theme=vue&hide=html,PLpgSQL" />
 </a>
 
