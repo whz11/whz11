@@ -1,4 +1,6 @@
 ### Hi there , I'm [whz11!](https://github.com/whz11/)👋
+* 兴趣方向：后端、机器学习、大数据
+* 编程语言：java、c++、python、c、c#、golang、kotlin（掌握程度递减）
 
 <!--
 **whz11/whz11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
