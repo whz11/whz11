@@ -1,6 +1,6 @@
 ### Hi there , I'm [whz11!](https://github.com/whz11/)👋
 * 兴趣方向：后端、机器学习、大数据
-* 编程语言：java、c++、python、c、c#、golang、kotlin（掌握程度递减）
+* 编程语言：java、scala、c++、python、c、c#（掌握程度递减）
 * 我的邮箱：hongzhou_wang@hotmail.com
 
 <!--
